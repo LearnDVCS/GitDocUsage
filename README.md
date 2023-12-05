@@ -6,6 +6,14 @@
 
 Follow the instructions below to ensure that you have Visual Studio Code correctly set up for this repository.
 
+When you think you have GitDoc set up, try putting your name in the area indicated above. You should see
+
+- VS Code auto-save your file, and
+- (in a few seconds) auto-commit the changes with a time stamp, and finally
+- (in 5 minutes) auto-push your changes to GitHub
+
+Keep making changes to this repository. Add files, edit files, etc. All your work will be recorded, and there will be a clear demonstration of the efforts you have put into your project/assignment.
+
 ----
 
 ## Automatic Commits
