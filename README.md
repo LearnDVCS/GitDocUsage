@@ -4,13 +4,13 @@
 
 > Use this repository as a test that you have the correct settings in [Visual Studio Code](https://code.visualstudio.com/) for using [GitDoc](https://aka.ms/gitdoc) in your school projects.
 
-Follow the instructions below to ensure that you have Visual Studio Code correctly set up for this repository.
+Follow the instructions below to ensure that you have Visual Studio Code correctly set up for this repository. If you have any problems, please see the [pre-requisites/trouble-shooting](#pre-requisitestrouble-shooting) section below.
 
 When you think you have GitDoc set up, try putting your name in the area indicated above. You should see
 
 - VS Code auto-save your file, and
-- (in a few seconds) auto-commit the changes with a time stamp, and finally
-- (in 5 minutes) auto-push your changes to GitHub
+- auto-commit the changes with a time stamp (possibly after a short delay, depending on the settings), and finally
+- auto-push your changes to GitHub (also possibly after a short delay, on the order of seconds to minutes depending on the settings)
 
 Keep making changes to this repository. Add files, edit files, etc. All your work will be recorded, and there will be a clear demonstration of the efforts you have put into your project/assignment.
 
