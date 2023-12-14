@@ -32,6 +32,8 @@ To manually turn on AutoSave for VS Code, check your settings for the text `Auto
 | ---------------------------------- | ------------------------------------------- |
 | ![Settings](./images/Settings.png) | ![AutoSave Settings](./images/AutoSave.png) |
 
+### Manual Configuration
+
 To manually enable GitDoc, press <kbd>F1</kbd>, type `GitDoc: Enable` and press <kbd>Enter</kbd>.
 
 ![Enable GitDoc](./images/EnableGitDoc.png)
@@ -44,6 +46,7 @@ Also make sure that you have set the Commit Validation Level to `none` in your w
 | ---------------------------------- | ----------------------------------------------- |
 | ![Settings](./images/Settings.png) | ![GitDoc Settings](./images/GitDocSettings.png) |
 
+### Pre-requisites/Trouble-Shooting
 
 Ensure that git knows your username and email. You can find out if it is configured on your computer by running the following commands in the terminal.
 
