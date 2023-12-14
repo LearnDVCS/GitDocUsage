@@ -20,6 +20,8 @@ Keep making changes to this repository. Add files, edit files, etc. All your wor
 
 **NOTE:** VS Code AutoSave and GitDoc have been enabled for this repository; ***do not turn this off***. Check your settings to ensure that you have *GitDoc* as well as *AutoSave* for VS Code enabled for this lab.
 
+> *Your instructor will notify you if any changes or additions are required to these settings (such as having a delay on commits to allow GitHub actions to complete).*
+
 This repository is set up with **recommended extensions**. When you open it in Visual Studio Code, you should be prompted to install these extensions. To manually check what is installed, see the Extensions panel in VS Code and filter for "Recommended".
 
 ![](./images/RecommendedExtensions.png)
