@@ -48,6 +48,8 @@ Also make sure that you have set the Commit Validation Level to `none` in your w
 
 ### Pre-requisites/Trouble-Shooting
 
+> If you have any problems with GitDoc performing the commits, even after it is enabled, try toggling the `GitDoc: Enable` command off and on again. If that doesn't work, try restarting VS Code. If that doesn't work, try performing a manual commit, followed by a manual push (it may need to be a force push - `git push -f`) and finally toggle the `GitDoc: Enable` off and on again.
+
 Ensure that git knows your username and email. You can find out if it is configured on your computer by running the following commands in the terminal.
 
 ```ps
